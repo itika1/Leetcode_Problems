@@ -7,3 +7,4 @@ class Solution:
                 return [prev[diff], i]
             prev[n]=i
         return
+        
